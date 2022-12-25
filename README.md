@@ -5,11 +5,11 @@
 
 ## Descripción 📑
 
-Teclado musical utilizando HTML, CSS y HTML 
+Teclado musical utilizando HTML, CSS y JavaScript
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-Utilización de eventos y selectores en HTML 
+Utilización de eventos y selectores en JavaScript 
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
